@@ -1,0 +1,4 @@
+Candidate,Score,Skills,Missing Skills
+resume1 (1).pdf,35.63,"machine learning, pandas, sql, python, aws, tensorflow, numpy","nlp, docker"
+resume3 (1).pdf,27.3,"machine learning, nlp, deep learning, pytorch, python, docker","pandas, sql, aws, tensorflow, numpy"
+resume2 (2).pdf,12.24,"data analysis, sql, java, excel, power bi, docker","machine learning, pandas, nlp, python, aws, tensorflow, numpy"
